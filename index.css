@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: black;
+  color: white;
+}
+input {
+  padding: 0.5rem;
+  width: 100%;
+}
+button {
+  background-color: #00cc66;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  margin-top: 1rem;
+}
